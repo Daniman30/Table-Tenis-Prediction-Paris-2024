@@ -1,0 +1,611 @@
+{
+    "tem_dob": {
+        "name": "Doble",
+        "name_en": "Double",
+        "type": "group",
+        "sport": "tem",
+        "sex": {
+            "mixed": {
+                "date": "2024/07/30",
+                "date_pred": "2024/07/10",
+                "finished": false,
+                "previa": [],
+                "analysis": [],
+                "previa_en": [],
+                "analysis_en": [],
+                "prediction": {
+                    "1": {
+                        "name": "China",
+                        "name_en": "China",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "2": {
+                        "name": "España",
+                        "name_en": "Spain",
+                        "country_domain": "ESP",
+                        "status": 0
+                    },
+                    "3": {
+                        "name": "Suecia",
+                        "name_en": "Sweden",
+                        "country_domain": "SWE",
+                        "status": 0
+                    },
+                    "4": {
+                        "name": "Corea del Sur",
+                        "name_en": "South Korea",
+                        "country_domain": "KOR",
+                        "status": 0
+                    },
+                    "5": {
+                        "name": "Alemania",
+                        "name_en": "Germany",
+                        "country_domain": "GER",
+                        "status": 0
+                    },
+                    "6": {
+                        "name": "Rumania",
+                        "name_en": "Romania",
+                        "country_domain": "ROU",
+                        "status": 0
+                    },
+                    "7": {
+                        "name": "Hong Kong",
+                        "name_en": "Hong Kong",
+                        "country_domain": "HKG",
+                        "status": 0
+                    },
+                    "8": {
+                        "name": "Hungría",
+                        "name_en": "Hungary",
+                        "country_domain": "HUN",
+                        "status": 0
+                    }
+                },
+                "result": {
+                    "1": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "3": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "4": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "5": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "6": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "7": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "8": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "tem_sin": {
+        "name": "Individual",
+        "name_en": "Single",
+        "type": "single",
+        "sport": "tem",
+        "sex": {
+            "female": {
+                "date": "2024/08/03",
+                "date_pred": "2024/07/10",
+                "finished": false,
+                "previa": [],
+                "analysis": [],
+                "previa_en": [],
+                "analysis_en": [],
+                "prediction": {
+                    "1": {
+                        "name": "SUN Yingsha",
+                        "name_en": "SUN Yingsha",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "2": {
+                        "name": "CHEN Meng",
+                        "name_en": "CHEN Meng",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "3": {
+                        "name": "HAYATA Hina",
+                        "name_en": "HAYATA Hina",
+                        "country_domain": "JPN",
+                        "status": 0
+                    },
+                    "4": {
+                        "name": "JEON Jihee",
+                        "name_en": "JEON Jihee",
+                        "country_domain": "KOR",
+                        "status": 0
+                    },
+                    "5": {
+                        "name": "SHIN Yubin",
+                        "name_en": "SHIN Yubin",
+                        "country_domain": "KOR",
+                        "status": 0
+                    },
+                    "6": {
+                        "name": "CHENG I-Ching",
+                        "name_en": "CHENG I-Ching",
+                        "country_domain": "TPE",
+                        "status": 0
+                    },
+                    "7": {
+                        "name": "YANG Xiaoxin",
+                        "name_en": "YANG Xiaoxin",
+                        "country_domain": "MON",
+                        "status": 0
+                    },
+                    "8": {
+                        "name": "MITTELHAM Nina",
+                        "name_en": "MITTELHAM Nina",
+                        "country_domain": "GER",
+                        "status": 0
+                    }
+                },
+                "result": {
+                    "1": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "3": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "4": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "5": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "6": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "7": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "8": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ]
+                }
+            },
+            "male": {
+                "date": "2024/08/04",
+                "date_pred": "2024/07/10",
+                "finished": false,
+                "previa": [],
+                "analysis": [],
+                "previa_en": [],
+                "analysis_en": [],
+                "prediction": {
+                    "1": {
+                        "name": "FAN Zhendong",
+                        "name_en": "FAN Zhendong",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "2": {
+                        "name": "WANG Chuqin",
+                        "name_en": "WANG Chuqin",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "3": {
+                        "name": "CALDERANO Hugo",
+                        "name_en": "CALDERANO Hugo",
+                        "country_domain": "BRA",
+                        "status": 0
+                    },
+                    "4": {
+                        "name": "LEBRUN Felix",
+                        "name_en": "LEBRUN Felix",
+                        "country_domain": "FRA",
+                        "status": 0
+                    },
+                    "5": {
+                        "name": "OVTCHAROV Dimitrij",
+                        "name_en": "OVTCHAROV Dimitrij",
+                        "country_domain": "GER",
+                        "status": 0
+                    },
+                    "6": {
+                        "name": "HARIMOTO Tomokazu",
+                        "name_en": "HARIMOTO Tomokazu",
+                        "country_domain": "JPN",
+                        "status": 0
+                    },
+                    "7": {
+                        "name": "TOGAMI Shunsuke",
+                        "name_en": "TOGAMI Shunsuke",
+                        "country_domain": "JPN",
+                        "status": 0
+                    },
+                    "8": {
+                        "name": "JORGIC Darko",
+                        "name_en": "JORGIC Darko",
+                        "country_domain": "SLO",
+                        "status": 0
+                    }
+                },
+                "result": {
+                    "1": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "3": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "4": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "5": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "6": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "7": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "8": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "tem_tea": {
+        "name": "Equipo",
+        "name_en": "Team",
+        "type": "group",
+        "sport": "tem",
+        "sex": {
+            "female": {
+                "date": "2024/08/10",
+                "date_pred": "2024/07/10",
+                "finished": false,
+                "previa": [],
+                "analysis": [],
+                "previa_en": [],
+                "analysis_en": [],
+                "prediction": {
+                    "1": {
+                        "name": "China",
+                        "name_en": "China",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "2": {
+                        "name": "Hong Kong",
+                        "name_en": "Hong Kong",
+                        "country_domain": "HKG",
+                        "status": 0
+                    },
+                    "3": {
+                        "name": "Brasil",
+                        "name_en": "Brazil",
+                        "country_domain": "BRA",
+                        "status": 0
+                    },
+                    "4": {
+                        "name": "Francia",
+                        "name_en": "France",
+                        "country_domain": "FRA",
+                        "status": 0
+                    },
+                    "5": {
+                        "name": "Corea del Sur",
+                        "name_en": "South Korea",
+                        "country_domain": "KOR",
+                        "status": 0
+                    },
+                    "6": {
+                        "name": "Rumania",
+                        "name_en": "Romania",
+                        "country_domain": "ROU",
+                        "status": 0
+                    },
+                    "7": {
+                        "name": "Tailandia",
+                        "name_en": "Thailand",
+                        "country_domain": "THA",
+                        "status": 0
+                    },
+                    "8": {
+                        "name": "Polonia",
+                        "name_en": "Poland",
+                        "country_domain": "POL",
+                        "status": 0
+                    }
+                },
+                "result": {
+                    "1": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "3": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "4": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "5": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "6": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "7": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "8": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ]
+                }
+            },
+            "male": {
+                "date": "2024/08/09",
+                "date_pred": "2024/07/10",
+                "finished": false,
+                "previa": [],
+                "analysis": [],
+                "previa_en": [],
+                "analysis_en": [],
+                "prediction": {
+                    "1": {
+                        "name": "China",
+                        "name_en": "China",
+                        "country_domain": "CHN",
+                        "status": 0
+                    },
+                    "2": {
+                        "name": "Egipto",
+                        "name_en": "Egypt",
+                        "country_domain": "EGY",
+                        "status": 0
+                    },
+                    "3": {
+                        "name": "Australia",
+                        "name_en": "Australia",
+                        "country_domain": "AUS",
+                        "status": 0
+                    },
+                    "4": {
+                        "name": "Corea del Sur",
+                        "name_en": "South Korea",
+                        "country_domain": "KOR",
+                        "status": 0
+                    },
+                    "5": {
+                        "name": "Francia",
+                        "name_en": "France",
+                        "country_domain": "FRA",
+                        "status": 0
+                    },
+                    "6": {
+                        "name": "Suecia",
+                        "name_en": "Sweden",
+                        "country_domain": "SWE",
+                        "status": 0
+                    },
+                    "7": {
+                        "name": "Brasil",
+                        "name_en": "Brazil",
+                        "country_domain": "BRA",
+                        "status": 0
+                    },
+                    "8": {
+                        "name": "Eslovenia",
+                        "name_en": "Slovenia",
+                        "country_domain": "SLO",
+                        "status": 0
+                    }
+                },
+                "result": {
+                    "1": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "3": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "4": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "5": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "6": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "7": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ],
+                    "8": [
+                        {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": ""
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
